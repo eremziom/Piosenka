@@ -1,0 +1,21 @@
+/* Global */
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+body {
+margin: 0;
+font-size: 16px;
+line-height: 1.7;
+color: blue;
+}
+
+.container {
+max-width: 1140px;
+padding: 0 20px;
+margin: 0 auto;
+}
+
+section {
+padding: 96px 0;
+}
